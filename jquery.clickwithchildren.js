@@ -8,7 +8,7 @@
  *
  * Copyright (c) 2012 Picturelife Inc (picturelife.com)
  * Licensed under the MIT license
- *
+ * https://raw.github.com/Picturelife/Click-with-Children/master/LICENSE.txt
  *
 */
 (function ($) {
